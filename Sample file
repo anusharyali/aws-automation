@@ -1,0 +1,18 @@
+Overview of Linux OS
+Datacenter, Servers, Physical and Virtual Machine
+Hypervisor and Cloud
+Installation of Linux OS on EC2 instance
+Basic Linux commands
+Filesystem
+---------------------------------------------------------------------------------------------------------------------------
+User Management
+Delegate the sudo privileges to Regular user
+---------------------------------------------------------------------------------------------------------------------------
+Permissions:
+  * Change Modification
+  * Change ownership
+---------------------------------------------------------------------------------------------------------------------------
+Package Management:
+  * RPM
+  * YUM
+  * APT - Ubuntu
